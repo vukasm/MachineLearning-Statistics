@@ -49,12 +49,17 @@ Structure of each notebook will be further explained in the below sections. Furt
 
 1. Make sure you have Python installed. This is done best through Anaconda [7] package.
 2. Make sure you have the following packages installed:
+
 [![python](https://camo.githubusercontent.com/e4f918596bfc1a8746d3bf5426a212500a5b36b1e5c63869cbe65b071dcdb48a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e756d70792d3737374242343f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)](https://www.python.org/)
- (>=3.5)
-[![numpy](https://camo.githubusercontent.com/c676b5f90a1650624a0a9832d7954edda1db39ad3347d90c8c51e88ff2f92252/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d6461726b677265656e)](https://numpy.org/)(>=1.11.0)
-[![scipy](https://camo.githubusercontent.com/20e84436b4f8cdf5d930e322fa4b16bb9018078f7f075baa7008f4e4c4ddcd2e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53636950792d3635344646303f7374796c653d666f722d7468652d6261646765266c6f676f3d5363695079266c6f676f436f6c6f723d7768697465)](https://scipy.org/)(>=0.17.0)
-[![plt](https://img.shields.io/badge/MATPLOTLIB-00B388?style=for-the-badge&logo={Aircall}&logoColor=white)](https://matplotlib.org/)(>=1.5.1)
-[![pandas](https://camo.githubusercontent.com/5e18e9b742657f6921829e31b6ee09d5d345633d8680cf1881f637d8e7bc44f1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50616e6461732d3243324437323f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465)](https://pandas.pydata.org/)(>=0.18.0)
+
+[![numpy](https://camo.githubusercontent.com/c676b5f90a1650624a0a9832d7954edda1db39ad3347d90c8c51e88ff2f92252/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d6461726b677265656e)](https://numpy.org/)
+
+[![scipy](https://camo.githubusercontent.com/20e84436b4f8cdf5d930e322fa4b16bb9018078f7f075baa7008f4e4c4ddcd2e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53636950792d3635344646303f7374796c653d666f722d7468652d6261646765266c6f676f3d5363695079266c6f676f436f6c6f723d7768697465)](https://scipy.org/)
+
+[![plt](https://img.shields.io/badge/MATPLOTLIB-00B388?style=for-the-badge&logo={Aircall}&logoColor=white)](https://matplotlib.org/)
+
+[![pandas](https://camo.githubusercontent.com/5e18e9b742657f6921829e31b6ee09d5d345633d8680cf1881f637d8e7bc44f1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50616e6461732d3243324437323f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465)](https://pandas.pydata.org/)
+
 
 3. Anaconda [3] comes with `scikit-learn` by default, but, if needed it can be installed manually by typing `conda install scikit-learn` in a terminal. Check detailed instructions [here](https://scikit-learn.org/stable/install.html).
 4. `SciPy` is part of the Anaconda distribution and can be installed with Anaconda by typing `conda install scipy` in a terminal. Otherwise detailed instructions can be found [here](https://scipy.org/install/).
@@ -95,4 +100,5 @@ Both these methods display notebook file as static html. For an interactive vers
 [7] Anaconda. Installation. Available at: https://docs.anaconda.com/anaconda/install/index.html
 [8] nbviewer. A simple way to share Jupyter Notebooks. Available at: https://nbviewer.org/
 [9] Binder. Turn a Git repo into a collection of interactive notebooks. Available at: https://mybinder.org/
+[10] Badges 4 readme. Available at: https://github.com/alexandresanlim/Badges4-README.md-Profile
 
