@@ -92,13 +92,23 @@ Both these methods display notebook file as static html. For an interactive vers
 ### **References** 
 
 [1] GMIT. Galway-Mayo Institute of Technology. Available at: https://www.gmit.ie/
-[2] Python Software Foundation. Welcome to python.org. Available at: https://www.python.org/  
+
+[2] Python Software Foundation. Welcome to python.org. Available at: https://www.python.org/ 
+
 [3] scikit-learn. Machine Learning in Python. Available at: https://scikit-learn.org/stable/
+
 [4] Scipy - Scientific computing tools for Python. Available at: https://www.scipy.org/about.html
+
 [5] Jupyter. Project Jupyter. Available at: https://jupyter.org/
+
 [6] GMIT. Quality Assurance Framework. Available at: https://www.gmit.ie/general/quality-assurance-framework
+
 [7] Anaconda. Installation. Available at: https://docs.anaconda.com/anaconda/install/index.html
+
 [8] nbviewer. A simple way to share Jupyter Notebooks. Available at: https://nbviewer.org/
+
 [9] Binder. Turn a Git repo into a collection of interactive notebooks. Available at: https://mybinder.org/
+
 [10] Badges 4 readme. Available at: https://github.com/alexandresanlim/Badges4-README.md-Profile
+
 
